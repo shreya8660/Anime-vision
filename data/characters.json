@@ -1,0 +1,49 @@
+{
+    "RIGHT_ONE": {
+        "name": "Gojo",
+        "image": "assets/images/gojo.png",
+        "audio": "assets/audio/gojo.mp3"
+    },
+
+    "RIGHT_TWO": {
+        "name": "Naruto",
+        "image": "assets/images/naruto.png",
+        "audio": "assets/audio/naruto.mp3"
+    },
+
+    "RIGHT_THREE": {
+        "name": "Eren",
+        "image": "assets/images/eren.png",
+        "audio": "assets/audio/eren.mp3"
+    },
+
+    "RIGHT_FOUR": {
+        "name": "Luffy",
+        "image": "assets/images/luffy.png",
+        "audio": "assets/audio/luffy.mp3"
+    },
+
+    "LEFT_ONE": {
+        "name": "Itachi",
+        "image": "assets/images/itachi.png",
+        "audio": "assets/audio/itachi.mp3"
+    },
+
+    "LEFT_TWO": {
+        "name": "Tanjiro",
+        "image": "assets/images/tanjiro.png",
+        "audio": "assets/audio/tanjiro.mp3"
+    },
+
+    "LEFT_THREE": {
+        "name": "Sukuna",
+        "image": "assets/images/sukuna.png",
+        "audio": "assets/audio/sukuna.mp3"
+    },
+
+    "LEFT_FOUR": {
+        "name": "Zenitsu",
+        "image": "assets/images/zenitsu.png",
+        "audio": "assets/audio/zenitsu.mp3"
+    }
+}
